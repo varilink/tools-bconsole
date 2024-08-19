@@ -1,0 +1,7 @@
+services:
+
+  bconsole:
+
+    build: .
+
+    image: varilink/tools/bconsole
